@@ -1,2 +1,2 @@
-# Internet Design Project 2: The Online Identity
-This webpage is a simulation of a social media website that allows users to post their contact information, some text that accompanies their information, and nothing more. No photos, videos or memes. The aim to get people interacting in the real world rather than online. Social media is used as a tool for this, rather than as a facilitator of the entire interaction.
+# Internet Design Project 3: Implementing API
+This webpage is an extension of my previous project. It is a page that contains a collection of silly social media posts and a feed of Donald Trump's tweets to encourage the reader to stop using social media. The posts illustrate how absurd social media can be and also offers a link to the Web 2.0 Suicide Machine to make it easier for readers to free themselves.
