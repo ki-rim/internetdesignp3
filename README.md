@@ -1,1 +1,2 @@
-# internetdesignp3
+# Internet Design Project 2: The Online Identity
+This webpage is a simulation of a social media website that allows users to post their contact information, some text that accompanies their information, and nothing more. No photos, videos or memes. The aim to get people interacting in the real world rather than online. Social media is used as a tool for this, rather than as a facilitator of the entire interaction.
